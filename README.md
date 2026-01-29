@@ -3,8 +3,9 @@
 使用方法：
 
 ```
-git clone git@github.com:yupianxian9/Commonly_used_fonts.git
+git clone https://github.com/yupianxian9/Commonly_used_fonts.git
 cd ./Commonly_used_fonts/fonts
 python 0install.py
 ```
+
 
